@@ -15,6 +15,7 @@
   - `yari-content-ko` google calendar 초대 메일 확인
 - [오픈소스 컨트리뷰션 아카데미 멘토 신청](https://www.oss.kr/notice/show/d277cc91-3e51-494c-b8cd-b04626196d7e) (@swimjiy)
   - 결과 발표: 4월 5일
+- 현재 상철님 할당 PR에 대해 팀원 할당되어 리뷰 같이 진행 중 입니다. 진행중에 궁금한 사항이나 고민되는 사항 있을까요? (@1ilsang)
 - [JavaScript - Reference - Global Object - Error: 번역률 100%](https://github.com/mdn/translated-content/pull/18809) (@wisedog)
 - [2024 개인 기여 활동](https://docs.google.com/document/d/1vxfpQ5OLTT1Ycnw_Ub68Igb5fcGUhuj66CbbGNbVfBQ/edit) (@hochan222)
   - 하고 싶은 것 1~2가지 다시 계획 및 다음 회의록에 작성
