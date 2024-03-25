@@ -1,6 +1,6 @@
 ## MDN yari-content-ko 회의록 [2024-03-24]
 
-Attendees: 이호찬 (@hochan222), 최예지 (@yechoi42), 박성우 (@cos18), 박소현 (@pje1740), 김종하 (@wisedog), 임지영 (@swimjiy), 전환오 (@jho2301), 박선희 (@sunhpark42), 이상철 (@1ilsang)
+Attendees: 이호찬 (@hochan222), 최예지 (@yechoi42), 박성우 (@cos18), 박소현 (@pje1740), 임지영 (@swimjiy), 전환오 (@jho2301), 이상철 (@1ilsang)
 
 Host: 이호찬 (@hochan222)
 
