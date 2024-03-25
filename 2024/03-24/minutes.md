@@ -13,8 +13,8 @@ Taking notes: 박소현 (@pje1740)
 **[yari-content-ko organization]**
 
 - 회의록은 번갈아가면서 작성 예정, 작성 후엔 PR 업로드
+- 매달 회의 전 agenda PR 생성, 의논할 안건 agenda PR에 내용 추가
 - 안건에서 골뱅이 뒤에는 해당 내용을 언급할 화자의 아이디
-- 회의록은 PR로 업로드
 
 **[2024 개인 기여 활동]**
 
