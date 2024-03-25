@@ -4,7 +4,7 @@ Attendees: 이호찬 (@hochan222), 최예지 (@yechoi42), 박성우 (@cos18), �
 
 Host: 이호찬 (@hochan222)
 
-Taking notes:
+Taking notes: 박소현 (@pje1740)
 
 ### 안건 소개 및 개요
 
