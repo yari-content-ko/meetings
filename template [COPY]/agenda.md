@@ -4,11 +4,11 @@
 
 ### 안건 소개 및 개요
 
-- 다음 회의에 이야기할 내용을 `팀 갱신 사항`과 `질문 및 토론`에 작성해주세요.
+- 다음 회의에 이야기할 내용을 `팀 업데이트 사항`과 `질문 및 토론`에 작성해주세요.
 
-### yari-content-ko
+### 팀 업데이트
 
-팀 갱신 사항
+팀 업데이트 사항
 
 - [example] Progress on my awesome project. See link for more details (@MyUsername)
 
