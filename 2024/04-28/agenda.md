@@ -10,6 +10,13 @@
 
 팀 갱신 사항
 
+**[yari-content-ko 오픈 톡방]**
+
+- MDN yari-content-ko
+  - 현재 활동 중인 팀원 톡방 
+- MDN yari-content-ko 오아시스
+  - 전체 톡방 
+
 **[2024 오픈소스 컨트리뷰션 멘토]**
 
 - 선정되지 못함
