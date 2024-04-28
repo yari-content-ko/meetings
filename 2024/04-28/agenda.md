@@ -27,6 +27,7 @@
   - [Web > CSS 번역 상황](https://github.com/1ilsang/dev/assets/23524849/9df7f037-fcfb-4c91-a3f5-bbb9ffa01619) 50% 까지 올리기(현 완료: 27.7%, 신선도: 12.5%)
   - [Glossary bot](https://github.com/line/webpack.kr/pull/748) 기여
 - @sunhpark42
+  - 매주 일요일 오전 리뷰하는 시간 내기 (10:00 ~ 12:00 사이)
 - @jho2301
 - @swimjiy
 - @wisedog
