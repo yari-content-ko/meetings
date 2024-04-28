@@ -27,6 +27,8 @@
 - @yechoi42
 - @pje1740
 - @hochan222
+  - 1주일 이내로 리뷰
+  - 기존에 존재하는 문서 source-commit 추가. https://github.com/mdn/translated-content/issues/14965
 
 **[팀 리뷰]**
 
@@ -42,3 +44,8 @@
 **[Glossary]**
 
 - [Section Title](https://github.com/mdn/translated-content/blob/main/docs/ko/guides/glossary-guide.md#section-title)에 `Return Value(반환 값)` 추가 (@sunhpark42)
+
+**[Discussion]**
+
+- [Exploring Guidelines for Line Length and Newline in Markdown Documentation.](https://github.com/orgs/mdn/discussions/655) (@hochan222)
+  - https://github.com/orgs/mdn/discussions/655#discussioncomment-9251708
