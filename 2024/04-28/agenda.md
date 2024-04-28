@@ -57,3 +57,4 @@
 
 - [Exploring Guidelines for Line Length and Newline in Markdown Documentation.](https://github.com/orgs/mdn/discussions/655) (@hochan222)
   - https://github.com/orgs/mdn/discussions/655#discussioncomment-9251708
+- ["Iterate"를 순회로 번역하는 이유](https://github.com/mdn/translated-content/issues/14044#issuecomment-2016845682) (@hochan222)
