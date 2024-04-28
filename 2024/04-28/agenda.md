@@ -12,10 +12,10 @@
 
 **[yari-content-ko 오픈 톡방]**
 
-- MDN yari-content-ko
+- [MDN yari-content-ko](https://open.kakao.com/o/gFkjnHog)
   - 현재 활동 중인 팀원 톡방 
-- MDN yari-content-ko 오아시스
-  - 전체 톡방 
+- [MDN yari-content-ko 오아시스](https://open.kakao.com/o/gnygOBad)
+  - 전체 팀원 톡방 
 
 **[2024 오픈소스 컨트리뷰션 멘토]**
 
