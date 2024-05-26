@@ -8,9 +8,17 @@
 
 ### yari-content-ko
 
-팀 갱신 사항
+**[yari-content-ko]**
 
 - (@cos18) 개인적인 사정으로 인해 부득이하게 리뷰어 활동을 중단하게 되었습니다. 비록 부족한 점이 많았지만, 그동안 리뷰 도와주셔서 감사합니다!
+- (@swimjiy) 개인적인 사정으로 인해 부득이하게 리뷰어 활동을 중단하게 되었습니다.
+
+**[채널 추가]**
+
+- https://groups.google.com/g/yari-conetnt-ko 생성 (@hochan222)
+  - yari-conetnt-ko@googlegroups.com
+- https://github.com/yari-content-ko 채널 미초대 인원
+  - @yechoi42
 
 ### 질문 및 토론
 
