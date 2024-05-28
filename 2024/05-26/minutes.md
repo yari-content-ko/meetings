@@ -18,7 +18,7 @@ Taking notes: 이호찬 (@hochan222)
 
 **[이메일 그룹 계정 생성]**
 
-- https://groups.google.com/g/yari-conetnt-ko 생성 (@hochan222)
+- https://groups.google.com/g/yari-content-ko/ 생성 (@hochan222)
   - `yari-conetnt-ko@googlegroups.com` 이메일 그룹 계정 생성 후 초대 메일 드렸습니다. 수락 부탁드립니다.
 - https://github.com/yari-content-ko
   - organization > People > 'private'에서 'public'으로 공개 부탁드립니다!
