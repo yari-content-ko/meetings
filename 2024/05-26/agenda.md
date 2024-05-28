@@ -15,7 +15,7 @@
 
 **[채널 추가]**
 
-- https://groups.google.com/g/yari-conetnt-ko 생성 (@hochan222)
+- https://groups.google.com/g/yari-content-ko/ 생성 (@hochan222)
   - yari-conetnt-ko@googlegroups.com
 - https://github.com/yari-content-ko 채널 미초대 인원
   - @yechoi42
