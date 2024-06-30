@@ -17,3 +17,5 @@
 질문 및 논의할 사항
 
 - [example] Discuss my interesting topic. See link for more details (@MyUsername)
+- flow-layout의 번역을 "대열 레이아웃" 으로 유지하는 것에 대한 건 [연관PR](https://github.com/mdn/translated-content/pull/21745) (@sunhpark42)
+    - 대열 레이아웃의 표현이 직관적이지 않고, 한자표현으로 사용자의 이해를 낮출 수 있지 않나 싶어서 유지 여부 논의하고 싶습니다. (플로우, 흐름.. 등 그 외 좋은 단어가 있다면 말씀부탁드러요.)
