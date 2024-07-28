@@ -22,7 +22,7 @@
 - 팀 할당 이슈 알림을 자동으로 받는 방법
   - 이메일 알림은 Gmail 계정 생성부터 관리가 필요해(2FA가 등록등) 관리 포인트가 늘어남. Discord는 별도의 관리 포인트 없음. 차주에 pransh15님과 대화 예정.
   - 연관 링크
-    - [yari-content-ko google groups](https://groups.google.com/g/yari-content-ko/c/Ro49amZT-fU)
+    - [yari-content-ko google groups 관련 이슈](https://groups.google.com/g/yari-content-ko/c/Ro49amZT-fU)
     - [feat(actions): ko-locale label discord noti webhooks #22297](https://github.com/mdn/translated-content/pull/22297)
     - [feat(actions): ko-locale label email noti webhooks #22445](https://github.com/mdn/translated-content/pull/22445)
 - [[Markdown] An option to highlight a "Note" and "Warning" using blockquote (Beta)](https://github.com/orgs/community/discussions/16925)
