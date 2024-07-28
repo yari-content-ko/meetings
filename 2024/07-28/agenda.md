@@ -16,6 +16,9 @@
 
 ### 질문 및 토론
 
+- yari-content-ko google groups 가입 문의
+  - 그룹 가입은 모든 내용이 공개이기에 yari-content-ko팀에 한정하여 받도록 했으나 [관련 이슈 링크](https://groups.google.com/g/yari-content-ko/c/hZATRpCHnT8), 가입에 대한 메일 문의가 옴.
+  - google groups에 대해 알림을 받고 싶어하는 수요 확인. 관련하여 검증 후 권한 정책 설정 필요.
 - 팀 할당 이슈 알림을 자동으로 받는 방법
   - 이메일 알림은 Gmail 계정 생성부터 관리가 필요해(2FA가 등록등) 관리 포인트가 늘어남. Discord는 별도의 관리 포인트 없음. 차주에 pransh15님과 대화 예정.
   - 연관 링크
