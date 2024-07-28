@@ -1,4 +1,4 @@
-## MDN yari-content-ko 회의 [insert date]
+## MDN yari-content-ko 회의 2024-07-28
 
 [yari-content-ko 회의 일정 캘린더](https://calendar.google.com/calendar/u/0/embed?src=e43bb879372391269af4ee800723136b5df9a7c01bba63f6f3798504ba6b94e7@group.calendar.google.com&ctz=Asia/Seoul)에서 회의 참여 URL을 확인해주세요.
 
