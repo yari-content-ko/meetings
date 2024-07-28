@@ -9,7 +9,8 @@
 ### yari-content-ko
 
 - (@yechoi42) 9월 첫째 주까지 휴식
-- (@wisedog) JavaScript/Reference/Global Object 문서 영역에 관하여 3월달 목표한 번역 85% 근접.
+  - yechoi42로 assign된 PR들 @hochan222로 변경 부탁드립니다.
+- (@wisedog) JavaScript/Reference/Global Object 문서 영역에 관하여 3월달 목표한 번역 85% 근접
 
 ### 질문 및 토론
 
