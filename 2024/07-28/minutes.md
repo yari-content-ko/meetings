@@ -24,7 +24,7 @@ Taking notes: 이호찬 (@hochan222)
   - 전체 가입 가능하도록 설정 변경.
   - 가입 요청 시 승인 후 가입.
 - 팀 할당 이슈 알림을 자동으로 받는 방법
-  - 이메일 알림은 Gmail 계정 생성부터 관리가 필요해(2FA가 등록등) 관리 포인트가 늘어남. Discord는 별도의 관리 포인트 없음. 차주에 pransh15님과 대화 예정.
+  - Discord로 결정 예정. 차주에 pransh15님과 대화 예정.
 - [[Markdown] An option to highlight a "Note" and "Warning" using blockquote (Beta)](https://github.com/orgs/community/discussions/16925)
   - `ko-locale` 필요 작업
     - (1) MDN ko 안내서 관련 내용 수정
