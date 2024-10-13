@@ -4,7 +4,7 @@
 
 회의 일정에 대한 공개 캘린더가 있습니다:
 
-- [Web](https://calendar.google.com/calendar/u/0/embed?src=e43bb879372391269af4ee800723136b5df9a7c01bba63f6f3798504ba6b94e7@group.calendar.google.com&ctz=Asia/Seoul)
+- [Web](https://calendar.google.com/calendar/u/0/embed?src=39499320a50ec7c06f0cb589e953fd7a3e0c33d54a0e69378cd6f8566670cc40@group.calendar.google.com&ctz=Asia/Seoul)
 
 ### 다음 회의
 
