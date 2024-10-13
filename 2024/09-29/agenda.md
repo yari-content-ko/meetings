@@ -1,6 +1,6 @@
-## MDN yari-content-ko 회의 2024-09-29
+## MDN yari-content-ko 회의 2024-10-27
 
-[yari-content-ko 회의 일정 캘린더](https://calendar.google.com/calendar/u/0/embed?src=e43bb879372391269af4ee800723136b5df9a7c01bba63f6f3798504ba6b94e7@group.calendar.google.com&ctz=Asia/Seoul)에서 회의 참여 URL을 확인해주세요.
+[yari-content-ko 회의 일정 캘린더](https://calendar.google.com/calendar/u/0/embed?src=39499320a50ec7c06f0cb589e953fd7a3e0c33d54a0e69378cd6f8566670cc40@group.calendar.google.com&ctz=Asia/Seoul)에서 회의 참여 URL을 확인해주세요.
 
 ### 안건 소개 및 개요
 
