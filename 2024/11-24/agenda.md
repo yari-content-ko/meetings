@@ -13,7 +13,7 @@
   - https://github.com/orgs/mdn/teams/yari-content-ko
 - yari-content-ko 팀 모집 (12/1 ~ 12/31)
 
-**[translated-content]**
+**[mdn]**
 - [[PROJECT] Move embedded css-examples into content](https://github.com/mdn/mdn/issues/597)
 
 **[2024년 주요 활동 내역]**
