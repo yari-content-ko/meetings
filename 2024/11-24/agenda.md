@@ -9,6 +9,7 @@
 ### yari-content-ko
 
 **[yari-content-ko]**
+- 2024 회고: https://docs.google.com/spreadsheets/d/1DDSpd2jp8Tqps2EGpmNjsz1WIi9z7hRuTVHsG2wfCW4/edit?usp=sharing
 - (@yechoi42) yari-content-ko 팀 활동 종료
   - https://github.com/orgs/mdn/teams/yari-content-ko
 - yari-content-ko 팀 모집 (12/1 ~ 12/31)
