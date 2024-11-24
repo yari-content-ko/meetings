@@ -10,10 +10,17 @@
 
 **[yari-content-ko]**
 - (@yechoi42) yari-content-ko 팀 활동 종료
+  - https://github.com/orgs/mdn/teams/yari-content-ko
 - yari-content-ko 팀 모집 (12/1 ~ 12/31)
 
 **[translated-content]**
 - [[PROJECT] Move embedded css-examples into content](https://github.com/mdn/mdn/issues/597)
+
+**[2024년 주요 활동 내역]**
+
+**[2025년 목표]**
+- 팀 페이지 만들기
+- [[ko] 한국 MDN 문서에 존재하는 레거시 문서 최신화 #14965](https://github.com/mdn/translated-content/issues/14965)
 
 ### 질문 및 토론
 
