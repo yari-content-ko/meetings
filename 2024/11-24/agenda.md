@@ -8,9 +8,12 @@
 
 ### yari-content-ko
 
-팀 갱신 사항
+**[yari-content-ko]**
+- (@yechoi42) yari-content-ko 팀 활동 종료
+- yari-content-ko 팀 모집 (12/1 ~ 12/31)
 
-- [example] Progress on my awesome project. See link for more details (@MyUsername)
+**[translated-content]**
+- [[PROJECT] Move embedded css-examples into content](https://github.com/mdn/mdn/issues/597)
 
 ### 질문 및 토론
 
